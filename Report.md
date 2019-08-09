@@ -72,7 +72,7 @@ The following are the hyperparameters that were used for the three agent control
 (Bold values indicate those that differ from Agent Controller 1.)
 
 | Hyperparameter | Value |
-|--- |---	|--- |--- |
+|--- |---	|
 | agents_n | 20 |
 | frames_n | 1 |
 | state_size | 33 |
@@ -98,7 +98,7 @@ The following are the hyperparameters that were used for the three agent control
 (Bold values indicate those that differ from Agent Controller 1.)
 
 | Hyperparameter | Value |
-|--- |---	|--- |--- |
+|--- |---	|
 | agents_n | 20 |
 | frames_n | **2** |
 | state_size | 33 |
